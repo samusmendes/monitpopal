@@ -1,4 +1,14 @@
 [
-  {"target": "SE", "datapoints": [[183255.0, 1529755200]]},
-  {"target": "US", "datapoints": [[192224.0, 1529755200]]}
+  {
+    "key": "SE",
+    "latitude": 60.128161,
+    "longitude": 18.643501,
+    "name": "Sweden"
+  },
+  {
+    "key": "US",
+    "latitude": 37.09024,
+    "longitude": -95.712891,
+    "name": "United States"
+  }
 ]
