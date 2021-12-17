@@ -1,23 +1,4 @@
 [
-   {
-      "key":"ADJ",
-      "latitude":31.972700119018555,
-      "longitude":35.991600036621094,
-      "name":"Amman",
-      "country":"Jordan"
-   },
-   {
-      "key":"AQJ",
-      "latitude":29.611600875854492,
-      "longitude":35.018100738525391,
-      "name":"Aqaba",
-      "country":"Jordan"
-   },
-   {
-      "key":"AUH",
-      "latitude":24.433000564575195,
-      "longitude":54.651100158691406,
-      "name":"Abu Dhabi",
-      "country":"United Arab Emirates"
-   }
+  {"target": "SE", "datapoints": [[183255.0, 1529755200]]},
+  {"target": "US", "datapoints": [[192224.0, 1529755200]]}
 ]
