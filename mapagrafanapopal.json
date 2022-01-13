@@ -35,28 +35,28 @@
 		"name": "IFAL MARECHAL"
 	},
 	{
-		"key": "DF",
-		"latitude": -15.83,
-		"longitude": -47.86,
-		"name": "Distrito Federal"
+		"key": "IFPAL",
+		"latitude": -9.40,
+		"longitude": -36.65,
+		"name": "IFAL PALMEIRA"
 	},
 	{
-		"key": "ES",
-		"latitude": -19.19,
-		"longitude": -40.34,
-		"name": "Espirito Santo"
+		"key": "IFPEN",
+		"latitude": -10.28,
+		"longitude": -36.54,
+		"name": "IFAL PENEDO"
 	},
 	{
-		"key": "GO",
-		"latitude": -15.92,
-		"longitude": -49.61,
-		"name": "Goiás"
+		"key": "IFPIR",
+		"latitude": -9.62,
+		"longitude": -37.76,
+		"name": "IFAL PIRANHAS"
 	},
 	{
-		"key": "MA",
-		"latitude": -2.55,
-		"longitude": -44.30,
-		"name": "Maranhao"
+		"key": "IFRGO",
+		"latitude": -9.51,
+		"longitude": -35.80,
+		"name": "IFAL RIO LARGO"
 	},
 	{
 		"key": "MT",
