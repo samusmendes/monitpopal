@@ -1,38 +1,38 @@
 [{
-		"key": "AC",
+		"key": "FP",
 		"latitude": -9.66,
-		"longitude": -35.72,
-		"name": "POLO"
+		"longitude": -35.74,
+		"name": "FAPEAL"
 	},
 	{
-		"key": "AL",
+		"key": "UFAL",
 		"latitude": -9.55,
 		"longitude": -35.78,
 		"name": "UFAL AC SIMOES"
 	},
 	{
-		"key": "AP",
-		"latitude": -19.86,
-		"longitude": -43.97,
-		"name": "Mineirao"
+		"key": "IFARAP",
+		"latitude": -9.74,
+		"longitude": -36.63,
+		"name": "IFAL ARAPIRACA"
 	},
 	{
-		"key": "AM",
-		"latitude": -3.07,
-		"longitude": -61.66,
-		"name": "Amazonas"
+		"key": "IFBATA",
+		"latitude": -9.66,
+		"longitude": -37.12,
+		"name": "IFAL BATALHA"
 	},
 	{
-		"key": "BA",
-		"latitude": -12.24,
-		"longitude": -41.60,
-		"name": "Bahia"
+		"key": "IFMARA",
+		"latitude": -8.94,
+		"longitude": -35.17,
+		"name": "IFAL MARAGOGI"
 	},
 	{
-		"key": "CE",
-		"latitude": -5.19,
-		"longitude": -39.29,
-		"name": "Ceará"
+		"key": "IFMARE",
+		"latitude": -9.71,
+		"longitude": -35.89,
+		"name": "IFAL MARECHAL"
 	},
 	{
 		"key": "DF",
