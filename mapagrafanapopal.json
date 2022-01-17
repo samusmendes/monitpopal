@@ -11,43 +11,49 @@
 		"name": "UFAL AC SIMOES"
 	},
 	{
-		"key": "IFARAP",
+		"key": "IFAIR",
 		"latitude": -9.74,
 		"longitude": -36.63,
 		"name": "IFAL ARAPIRACA"
 	},
 	{
-		"key": "IFBATA",
+		"key": "IFBTL",
 		"latitude": -9.66,
 		"longitude": -37.12,
 		"name": "IFAL BATALHA"
 	},
 	{
-		"key": "IFMARA",
+		"key": "IFMRG",
 		"latitude": -8.94,
 		"longitude": -35.17,
 		"name": "IFAL MARAGOGI"
 	},
 	{
-		"key": "IFMARE",
+		"key": "IFMAC",
 		"latitude": -9.71,
 		"longitude": -35.89,
 		"name": "IFAL MARECHAL"
 	},
+ 	{
+		"key": "IFMRI",
+		"latitude": -9.30,
+		"longitude": -35.93,
+		"name": "IFAL MURICI"
+	},
 	{
-		"key": "IFPAL",
+		"key": "IFPIN",
 		"latitude": -9.40,
 		"longitude": -36.65,
 		"name": "IFAL PALMEIRA"
 	},
 	{
-		"key": "IFPEN",
+		"key": "IFPND",
 		"latitude": -10.28,
 		"longitude": -36.54,
 		"name": "IFAL PENEDO"
 	},
 	{
-		"key": "IFPIR",
+		"key": "IFPYH",
 		"latitude": -9.62,
 		"longitude": -37.76,
 		"name": "IFAL PIRANHAS"
@@ -59,22 +65,22 @@
 		"name": "IFAL RIO LARGO"
 	},
 	{
-		"key": "MT",
-		"latitude": -12.64,
-		"longitude": -55.42,
-		"name": "Mato Grosso"
+		"key": "IFSNN",
+		"latitude": -9.38,
+		"longitude": -37.24,
+		"name": "IFAL SANTANA"
 	},
 	{
-		"key": "MS",
-		"latitude": -20.42,
-		"longitude": -54.62,
-		"name": "Mato Grosso do Sul"
+		"key": "IFSMC",
+		"latitude": -9.80,
+		"longitude": -36.10,
+		"name": "IFAL SAO MIGUEL"
 	},
 	{
-		"key": "MG",
-		"latitude": -18.76,
-		"longitude": -44.40,
-		"name": "Minas Gerais"
+		"key": "IFSTU",
+		"latitude": -9.57,
+		"longitude": -35.82,
+		"name": "IFAL SATUBA"
 	},
 	{
 		"key": "PA",
