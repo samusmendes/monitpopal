@@ -5,12 +5,6 @@
 		"name": "FAPEAL"
 	},
 	{
-		"key": "UFAL",
-		"latitude": -9.55,
-		"longitude": -35.78,
-		"name": "UFAL AC SIMOES"
-	},
-	{
 		"key": "IFAIR",
 		"latitude": -9.74,
 		"longitude": -36.63,
@@ -82,90 +76,61 @@
 		"longitude": -35.82,
 		"name": "IFAL SATUBA"
 	},
-	{
-		"key": "PA",
-		"latitude": -5.53,
-		"longitude": -52.29,
-		"name": "Para"
+ 	{
+		"key": "UFAL",
+		"latitude": -9.55,
+		"longitude": -35.78,
+		"name": "UFAL AC SIMOES"
 	},
 	{
-		"key": "PB",
-		"latitude": -7.06,
-		"longitude": -35.55,
-		"name": "Paraiba"
+		"key": "UFAIR",
+		"latitude": -9.70,
+		"longitude": -36.68,
+		"name": "UFAL ARAPIRACA"
 	},
 	{
-		"key": "PE",
-		"latitude": -8.33,
-		"longitude": -38.11,
-		"name": "Pernambuco"
+		"key": "UFDGA",
+		"latitude": -9.31,
+		"longitude": -37.99,
+		"name": "UFAL DELMIRO GOUVEIA"
 	},
 	{
-		"key": "PR",
-		"latitude": -24.89,
-		"longitude": -51.55,
-		"name": "Paraná"
+		"key": "UFRGO",
+		"latitude": -9.46,
+		"longitude": -35.82,
+		"name": "UFAL DELZA GITAI"
 	},
 	{
-		"key": "PE",
-		"latitude": -8.28,
-		"longitude": -35.07,
-		"name": "Pernanbuco"
+		"key": "UFPIN",
+		"latitude": -9.42,
+		"longitude": -36.64,
+		"name": "UFAL PALMEIRA DOS INDIOS"
 	},
 	{
-		"key": "PI",
-		"latitude": -8.28,
-		"longitude": -43.68,
-		"name": "Piaui"
+		"key": "UFPND",
+		"latitude": -10.29,
+		"longitude": -36.57,
+		"name": "UFAL PENEDO"
 	},
 	{
-		"key": "RJ",
-		"latitude": -22.84,
-		"longitude": -43.15,
-		"name": "Rio de Janeiro"
+		"key": "UFSIP",
+		"latitude": -9.37,
+		"longitude": -37.25,
+		"name": "UFAL SANTANA"
 	},
 	{
-		"key": "RN",
-		"latitude": -5.22,
-		"longitude": -36.52,
-		"name": "Rio Grande do Norte"
+		"key": "UFVIS",
+		"latitude": -9.40,
+		"longitude": -36.26,
+		"name": "UFAL VIÇOSA"
 	},
 	{
-		"key": "RS",
-		"latitude": -29.22,
-		"longitude": -53.68,
-		"name": "Rio Grande do Sul"
+		"key": "UN",
+		"latitude": -9.67,
+		"longitude": -35.75,
+		"name": "UNCISAL"
 	},
-	{
-		"key": "RO",
-		"latitude": -11.22,
-		"longitude": -62.80,
-		"name": "Rondonia"
-	},
-	{
-		"key": "RR",
-		"latitude": 1.89,
-		"longitude": -61.22,
-		"name": "Roraima"
-	},
-	{
-		"key": "SC",
-		"latitude": -27.33,
-		"longitude": -49.44,
-		"name": "Santa Catarina"
-	},
-	{
-		"key": "SE",
-		"latitude": -10.90,
-		"longitude": -37.07,
-		"name": "Sergipe"
-	},
-	{
-		"key": "SP",
-		"latitude": -23.55,
-		"longitude": -46.64,
-		"name": "São Paulo"
-	},
+	
 	{
 		"key": "TO",
 		"latitude": -10.25,
