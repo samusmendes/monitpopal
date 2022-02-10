@@ -16,6 +16,12 @@
 		"longitude": -37.12,
 		"name": "IFAL BATALHA"
 	},
+ 	{
+		"key": "IFBBE",
+		"latitude": -9.55,
+		"longitude": -35.72,
+		"name": "IFAL BENEDITO BENTES"
+	},
 	{
 		"key": "IFMRG",
 		"latitude": -8.94,
