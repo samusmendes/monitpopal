@@ -138,6 +138,12 @@
 	},
 	
 	{
+		"key": "IFCOR",
+		"latitude": -10.12,
+		"longitude": -36.15,
+		"name": "Tocantins"
+	}
+ {
 		"key": "TO",
 		"latitude": -10.25,
 		"longitude": -48.25,
